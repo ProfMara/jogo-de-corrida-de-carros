@@ -115,9 +115,6 @@ class Game {
     this.resetButton.class("resetButton");
     this.resetButton.position(width / 2 + 230, 100);
 
-    this.leadeboardTitle.html("Placar");
-    this.leadeboardTitle.class("resetText");
-    this.leadeboardTitle.position(width / 3 - 60, 40);
 
     this.leader1.class("leadersText");
     this.leader1.position(width / 3 - 50, 80);
